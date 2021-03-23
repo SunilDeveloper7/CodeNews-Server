@@ -1,0 +1,7 @@
+const fakeUsers = [
+
+]
+
+const fakePosts = [
+    
+]
